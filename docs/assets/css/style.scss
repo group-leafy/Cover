@@ -73,7 +73,7 @@ $screenshot-item-width: 300px;
 
 .project-name-link {
     font-weight: bold;
-    color: #000;
+    color: #fff;
     margin-top: 0;
     margin-bottom: 0.1rem;
 
@@ -246,6 +246,7 @@ $screenshot-item-width: 300px;
 }
 
 .project-name {
+    color: #000;
     white-space: nowrap;
     @include small {
         margin-bottom: 0;
@@ -253,12 +254,15 @@ $screenshot-item-width: 300px;
 }
 
 .project-tagline {
+    color: #000;
     @include small {
         margin-bottom: 0rem;
     }
 }
 
 .btn {
+    background-color: #176EB5;
+    color: #000;
     @include large {
         margin-bottom: 0rem;
     }
