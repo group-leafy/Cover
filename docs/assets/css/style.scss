@@ -1,10 +1,10 @@
 ---
 ---
 
-$header-bg-color: #8f68cf !default;
-$header-bg-color-secondary: #155799 !default;
-$body-link-color: #1e6bb8 !default;
-$section-headings-color: #8f68cf !default;
+$header-bg-color: #F6BC14 !default;
+$header-bg-color-secondary: #F6BC14 !default;
+$body-link-color: #176EB5 !default;
+$section-headings-color: #F6BC14 !default;
 $screenshot-item-width: 300px;
 
 @import 'jekyll-theme-cayman';
@@ -73,7 +73,7 @@ $screenshot-item-width: 300px;
 
 .project-name-link {
     font-weight: bold;
-    color: #fff;
+    color: #000;
     margin-top: 0;
     margin-bottom: 0.1rem;
 
@@ -137,7 +137,7 @@ $screenshot-item-width: 300px;
 
 .project-name-link-in-page {
     font-weight: bold;
-    color: #fff;
+    color: #000;
     font-size: 1rem;
 
     &:hover {
