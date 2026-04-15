@@ -2,14 +2,19 @@
 layout: main
 ---
 
-## Welcome to app-page-tempalte
+## Welcome to Cover
 
-app-page-tempalte is a github page template for app.
+Your music, now on your home screen.
 
-You can quickly create an app github page through it.
+We all have massive music libraries, but how often do you revisit your old favorites? They usually end up buried deep in your playlists. Album covers are incredible pieces of art that deserve to be seen, not just hidden inside an app.
 
-Whenever you commit to your repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cover was built with a simple idea: bring your favorite album art to your iOS home screen. It serves as both a stunning aesthetic decoration and a trigger for your memories. Catching a glimpse of a familiar, long-forgotten album cover on your screen brings back the exact vibe of when you first listened to it.
 
-## Page
+Please note: Cover is designed for use with Apple Music. An active Apple Music subscription is required to function.
 
-You can click here to preview [page example](page);
+## Key Features
+- **Your Personal Gallery:** Place beautifully designed album covers and favorite artists on your home screen with customizable widgets.
+- **Rediscover Forgotten Gems:** Let the app shuffle your collection. Wake up to a different old favorite every day, effortlessly rediscovering the music you used to love.
+- **One Tap to Play:** See an album you miss? Tap the widget to dive into the details and start playing it instantly. 
+
+Reconnect with your music collection in a whole new way.
