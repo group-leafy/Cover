@@ -11,7 +11,7 @@ description: 'Reconnect with your music collection in a whole new way.'
 google_analytics: G-GH2WSNWVJQ
 
 show_ios_download_btn: true
-ios_download_url: 'https://www.apple.com/'
+ios_download_url: 'https://apps.apple.com/us/app/cover-see-your-music/id6761536635'
 ios_download_btn_title: 'Download from App Store'
 
 show_android_download_btn: false
